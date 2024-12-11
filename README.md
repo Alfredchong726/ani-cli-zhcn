@@ -11,7 +11,7 @@
 
 
 ### 下载
-目前的下载方法只支持安装源代码
+目前的下载方法只支持从Github中的release下载，或者安装源代码
 ```bash
 git clone git@github.com:Alfredchong726/ani-cli-zhcn.git
 cd ani-cli-zhcn
