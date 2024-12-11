@@ -29,4 +29,5 @@ pip install requirements.txt
 ```bash
 pip install pyinstaller
 pyinstaller --onefile ani-cli-zhcn.py
+sudo mv dist/ani-cli-zhcn /usr/bin/
 ```
